@@ -29,11 +29,17 @@
       "userImg": "https://lumiere-a.akamaihd.net/v1/images/c94eed56a5e84479a2939c9172434567c0147d4f.jpeg?region=0,0,600,600",
       "email": "billy@gmail.com",
       "id": 6
+    },
+    {
+      "name": "Myriam Chevalier",
+      "userImg": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhddesktopwallpapers.in%2Fwp-content%2Fuploads%2F2015%2F08%2Fmaple-red-leaf.jpg&f=1&nofb=1",
+      "email": "myriam@cornell.edu",
+      "id": 7
     }
   ],
   "posts": [
     {
-      "id": 2,
+      "id": 1,
       "postTime": 1595377905235,
       "userId": 2,
       "flightId": 1
@@ -94,7 +100,7 @@
     },
     {
       "postTime": 1632329451617,
-      "userId": 3,
+      "userId": 2,
       "flightId": 4,
       "id": 16
     },
@@ -124,7 +130,7 @@
     },
     {
       "postTime": 1632329806761,
-      "userId": 3,
+      "userId": 2,
       "flightId": 4,
       "id": 21
     },
@@ -136,7 +142,7 @@
     },
     {
       "postTime": 1632330152419,
-      "userId": 3,
+      "userId": 2,
       "flightId": 4,
       "id": 23
     },
@@ -145,12 +151,6 @@
       "userId": 3,
       "flightId": 3,
       "id": 24
-    },
-    {
-      "postTime": 1632334116111,
-      "userId": 3,
-      "flightId": 4,
-      "id": 25
     },
     {
       "postTime": 1632334167846,
@@ -163,9 +163,55 @@
       "userId": 3,
       "flightId": 3,
       "id": 27
+    },
+    {
+      "postTime": 1632502394496,
+      "userId": 7,
+      "flightId": 4,
+      "id": 29
+    },
+    {
+      "postTime": 1632502397706,
+      "userId": 7,
+      "flightId": 2,
+      "id": 30
+    },
+    {
+      "postTime": 1632508781504,
+      "userId": 4,
+      "flightId": 5,
+      "id": 31
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "userId": 3,
+      "comment": "eat shit trav"
+    },
+    {
+      "userId": 3,
+      "postId": 29,
+      "comment": "Hello my only Canadian Friend",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "postId": 31,
+      "comment": "I hoped you had a good flight my duder.  See any ufo's?",
+      "id": 3
     }
   ],
   "flights": [
+    {
+      "id": 1,
+      "flightNumber": 737,
+      "flightDate": "2021-09-23",
+      "airHours": 3.5,
+      "departureCity": "STL",
+      "arrivalCity": "LGA"
+    },
     {
       "id": 2,
       "flightNumber": 2046,
